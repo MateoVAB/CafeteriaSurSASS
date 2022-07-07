@@ -1,0 +1,13 @@
+<form action="envio.php">
+          <fieldset>
+            <legend>>Contacto<</legend>
+            <label for="name">Nombre</label>
+            <input type="text" id="name"></label>
+            <br>
+            <label for="text">Email</label>
+            <input type="text" id="Email"></input>
+            <br>
+            <label for="text">Mensaje</label>
+            <textarea></textarea>
+          </fieldset>
+        </form>
